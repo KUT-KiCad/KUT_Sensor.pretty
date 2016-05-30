@@ -1,2 +1,2 @@
-# KRC_Sensor.pretty
-KiCad Sensor footprint library
+# KUT_Sensor.pretty
+KUT KiCad Sensor footprint library
