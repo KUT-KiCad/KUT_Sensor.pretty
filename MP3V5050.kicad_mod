@@ -29,9 +29,4 @@
   (pad 8 smd rect (at -8.38 3.81) (size 2.54 1.52) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -8.378 1.27) (size 2.54 1.52) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -8.378 -3.81) (size 2.54 1.52) (layers F.Cu F.Paste F.Mask))
-  (model ../../../../../../Users/feunoir/Documents/KiCad/project/HybridRocket2017/KUT-KiCad/KUT_Sensor.pretty/8_LD_SNSR.wrl
-    (at (xyz 0 0 0.00635))
-    (scale (xyz 0.393701 0.393701 0.393701))
-    (rotate (xyz 0 0 0))
-  )
 )
